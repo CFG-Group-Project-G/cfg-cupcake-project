@@ -1,0 +1,38 @@
+nav {
+
+    background-color: yellowgreen;
+}
+
+nav li {
+
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+nav h1 {
+
+    text-align: center;
+    color:aqua;
+}
+
+header {
+
+    height: 40px;
+    background-color: rgb(222, 222, 100);
+}
+
+main h1 {
+
+    text-align: left;
+    color:black;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 240px;
+    height:340px;
+    
+  }
+
+
+
